@@ -21,7 +21,8 @@ Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 
 
 #### Frontend
