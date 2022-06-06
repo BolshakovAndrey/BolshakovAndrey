@@ -35,6 +35,7 @@ Languages and tools:
 
 
 #### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
