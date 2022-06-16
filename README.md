@@ -30,25 +30,25 @@ Languages and tools:
 #### Backend
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
 
 
 #### Frontend
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 
 #### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
 
 #### Tools
