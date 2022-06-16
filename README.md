@@ -7,10 +7,10 @@
 
 <div id="badges">
   <a href="https://t.me/Bolshakov_Andrey">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="mailto:abolshakovy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
   </a>
 </div>
 
