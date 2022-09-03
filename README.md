@@ -16,7 +16,7 @@
 
 ### Education
 
-- Yandex.Practicum Web Developer | Oct, 2021 - present
+- Yandex.Practicum Web Developer | Oct, 2021 - 2022
 
 - Yandex.Practicum Back-End Python Developer | 2020-2021 <a src="images/eng.pdf">
 
