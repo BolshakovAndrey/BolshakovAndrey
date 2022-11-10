@@ -12,7 +12,7 @@
 
 From January to June 2022, worked as a backend developer in the team  that is developing a new website for ["Lubimovka"](https://lubimovka.art/) drama festival. 
 As part of the team successfully brought the project to release. 
-[Customer review.](https://user-images.githubusercontent.com/19635244/201071937-e0b517a7-81fa-43cd-a15f-2f4007578a66.png)
+[Letter of gratitude.](https://user-images.githubusercontent.com/19635244/201071937-e0b517a7-81fa-43cd-a15f-2f4007578a66.png)
 
 <br>
 Languages and tools:
