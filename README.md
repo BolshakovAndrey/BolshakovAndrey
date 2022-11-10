@@ -2,10 +2,10 @@
 
 ### Education
 
-- Yandex.Practicum Web Developer | Oct, 2021 - July 2022
+- Yandex.Practicum Web Developer | Oct, 2021 - July 2022 -
 [Diploma ](https://user-images.githubusercontent.com/19635244/201074828-25c49bec-ee76-41dc-9c4a-2805411d9f08.png)
 
-- Yandex.Practicum Back-End Python Developer | 2020-2021
+- Yandex.Practicum Back-End Python Developer | 2020-2021 -
 [Diploma ](https://user-images.githubusercontent.com/19635244/201067854-db8f5873-de87-4954-be92-2dd37259fc49.png)
 
 ###  Projects
