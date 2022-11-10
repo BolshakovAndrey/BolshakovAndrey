@@ -1,28 +1,18 @@
-[comment]: <> (<img  alt='Hi I,m Andrey Bolshakov' src="./images/img.png" height="200px"/>)
-
-[comment]: <> (<br>)
-
-
 ## Hey, I'm Andrey Bolshakov
-
-<div id="badges">
-  <a href="https://t.me/Bolshakov_Andrey">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:abolshakovy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
-  </a>
-</div>
 
 ### Education
 
-- Yandex.Practicum Web Developer | Oct, 2021 - 2022
+- Yandex.Practicum Web Developer | Oct, 2021 - July 2022
+[Diploma ](https://user-images.githubusercontent.com/19635244/201074828-25c49bec-ee76-41dc-9c4a-2805411d9f08.png)
 
-- Yandex.Practicum Back-End Python Developer | 2020-2021 <a src="images/eng.pdf">
+- Yandex.Practicum Back-End Python Developer | 2020-2021
+[Diploma ](https://user-images.githubusercontent.com/19635244/201067854-db8f5873-de87-4954-be92-2dd37259fc49.png)
 
-### Current Projects
+###  Projects
 
-In January 2022 joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum) that is developing a new website for [lubimovka](https://lubimovka.ru/) drama festival
+From January to June 2022, worked as a backend developer in the team  that is developing a new website for ["Lubimovka"](https://lubimovka.art/) drama festival. 
+As part of the team successfully brought the project to release. 
+[Customer review.](https://user-images.githubusercontent.com/19635244/201071937-e0b517a7-81fa-43cd-a15f-2f4007578a66.png)
 
 <br>
 Languages and tools:
@@ -30,25 +20,23 @@ Languages and tools:
 #### Backend
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
 #### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 
 #### Database
-![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 
 #### Tools
