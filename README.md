@@ -28,7 +28,7 @@ Languages and tools
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
@@ -44,6 +44,7 @@ Languages and tools
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
 ![gunicorn](https://img.shields.io/badge/-gunicorn-000?&logo=gunicorn)
 ![celery](https://img.shields.io/badge/-celery-000?&logo=celery)
