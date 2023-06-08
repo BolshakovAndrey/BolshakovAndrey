@@ -59,8 +59,9 @@ Languages and tools
 ![gunicorn](https://img.shields.io/badge/-gunicorn-000?&logo=gunicorn)
 ![celery](https://img.shields.io/badge/-celery-000?&logo=celery)
 ![poetry](https://img.shields.io/badge/-poetry-000?&logo=poetry)
-![Figma Bot Api](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
+![Aiogram](https://img.shields.io/badge/-Aiogram-000?&logo=Aiogram)
 
 
 
