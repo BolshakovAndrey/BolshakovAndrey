@@ -15,7 +15,7 @@ As part of the team successfully brought the project to release.
 [Letter of gratitude.](https://user-images.githubusercontent.com/19635244/201071937-e0b517a7-81fa-43cd-a15f-2f4007578a66.png)
 
 
-I am currently working as a JavaScript (TypeScript) FullStack developer for VoxLink
+I am currently working as a TypeScript FullStack developer for VoxLink
 
 <br>
 Languages and tools
