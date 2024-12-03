@@ -44,17 +44,22 @@ Languages and tools
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-000?&logo=mongoDB)
+![supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+![convex](https://img.shields.io/badge/-Convex-000?&logo=Convex)
 
 
 #### Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=Storybook)
+
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
