@@ -1,5 +1,7 @@
 ## Hey, I'm Andrey Bolshakov
 
+**[Personal Portfolio](https://bolshakovandrey.github.io/personal_portfolio/)** 🌐
+
 ### Education
 
 - Yandex.Practicum Web Developer | Oct, 2021 - July 2022 -
