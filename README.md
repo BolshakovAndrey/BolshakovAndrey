@@ -6,11 +6,11 @@ I build and maintain complete systems: interactive web interfaces, Python and Ty
 
 Full-stack developer at **VoxLink**, based in **Belgrade, Serbia**.
 
-[Portfolio](https://bolshakovandrey.github.io/personal_portfolio/) · [Visual editor demo](https://bolshakovandrey.github.io/qcodes-react-demo-pages/) · [BeyondGreen video](https://youtu.be/R_AA3WqmVyw)
+[Portfolio](https://bolshakovandrey.github.io/personal_portfolio/) · [Professional GitLab](https://git.callforce.pro/Bolshakov) · [Visual editor demo](https://bolshakovandrey.github.io/qcodes-react-demo-pages/) · [BeyondGreen video](https://youtu.be/R_AA3WqmVyw)
 
 ## Professional work · VoxLink
 
-My professional work at VoxLink is hosted on GitLab, so this GitHub profile does not show the full scope of that work.
+My professional work at VoxLink is hosted on [GitLab — Andrey Bolshakov](https://git.callforce.pro/Bolshakov), so this GitHub profile does not show the full scope of that work. The GitLab profile is publicly accessible; access to individual projects depends on their permissions.
 
 For QCodes, I developed the **client-side visual script editor**, including its implementation, testing, and maintenance. The [separate public editor demo](https://bolshakovandrey.github.io/qcodes-react-demo-pages/) illustrates the interface; the production implementation remains private.
 
