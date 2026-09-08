@@ -4,7 +4,7 @@ Software engineer · Full-stack & LLM systems
 
 I build and maintain web applications, agent workflows, and LLM integrations.
 
-[Portfolio](https://bolshakovandrey.github.io/personal_portfolio/) · [VoxLink · GitLab](https://git.callforce.pro/Bolshakov) · [Visual editor demo](https://bolshakovandrey.github.io/qcodes-react-demo-pages/) · [BeyondGreen · video](https://youtu.be/R_AA3WqmVyw)
+[Portfolio](https://bolshakovandrey.github.io/personal_portfolio/) · [VoxLink · GitLab](https://git.callforce.pro/Bolshakov) · [Visual editor demo](https://bolshakovandrey.github.io/qcodes-react-demo-pages/) · [BeyondGreen](https://github.com/BolshakovAndrey/micro1-beyondgreen) · [Video](https://youtu.be/R_AA3WqmVyw)
 
 **Languages**
 
